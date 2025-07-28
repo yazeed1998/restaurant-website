@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Contact | Jumbo's Hamburgers</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Contact Us</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="menu.html">Menu</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="contact">
+      <h2>Get in Touch</h2>
+      <p><strong>📍 Address:</strong> 6558 E 41st St, Tulsa, OK 74145</p>
+      <p><strong>📞 Phone:</strong> <a href="tel:9186630944">(918) 663-0944</a></p>
+
+      <h3>Hours</h3>
+      <ul>
+        <li>Monday–Friday: 10 AM–7 PM</li>
+        <li>Saturday: 11 AM–7 PM</li>
+        <li>Sunday: Closed</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Jumbo's Hamburgers</p>
+  </footer>
+</body>
+</html>
